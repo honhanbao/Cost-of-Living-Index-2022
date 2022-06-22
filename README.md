@@ -11,4 +11,6 @@ This is where I store my projects in Data Analysis in Python.
   ### My project on kaggle
   https://www.kaggle.com/code/nhanbaoho/analysis-of-cost-of-living-index-2022
   
+  ### <a href = "https://github.com/honhanbao/Data_Analysis_Python/tree/master/Cost%20of%20Living%20Index%202022">Code file</a>
+  
   
