@@ -1,4 +1,4 @@
-# Data_Analysis_Python
+# Data Analysis (Python)
 
 This is where I store my projects in Data Analysis in Python.
 
