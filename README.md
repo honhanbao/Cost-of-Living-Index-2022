@@ -1,9 +1,5 @@
-# Data Analysis (Python)
-
-This is where I store my projects in Data Analysis in Python.
-
-## 1. Analysis of Cost of Living Index 2022
-  ### About Dataset
+# Analysis of Cost of Living Index 2022
+  ## About Dataset
   https://www.kaggle.com/datasets/ankanhore545/cost-of-living-index-2022
   
   Cost of Living Index (Excl. Rent) is a relative indicator of consumer goods prices, including groceries, restaurants, transportation and utilities. Cost of Living   
@@ -11,6 +7,6 @@ This is where I store my projects in Data Analysis in Python.
   ### My project on kaggle
   https://www.kaggle.com/code/nhanbaoho/analysis-of-cost-of-living-index-2022
   
-  ### <a href = "https://github.com/honhanbao/Data_Analysis_Python/tree/master/Cost%20of%20Living%20Index%202022">Code file</a>
+  ## <a href = "https://github.com/honhanbao/Data_Analysis_Python/tree/master/Cost%20of%20Living%20Index%202022">Code file</a>
   
   
